@@ -18,3 +18,4 @@ breakpad
 buf
 quickshell
 swww
+dart
