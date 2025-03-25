@@ -22,7 +22,7 @@ Not Reported as of 3/24
 
 ABF Builds with issues:
 dart # Description: The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more. Notes: Not published for znver1  
- dart-sass # Description: The reference implementation of Sass, written in Dart.
+dart-sass # Description: The reference implementation of Sass, written in Dart.
 
 Comming soon
 ly
