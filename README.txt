@@ -6,12 +6,13 @@ dart-sass
 ironbar
 
 ABF Builds with issues:
-quickshell # Qt 6.9.0 update sucks
+
 
 Issues:
 ly # Zig build fails
 
 Reported to Wilson:
+quickshell # fixed
 hyprlandpolkitagent
 hyprsysteminfo
 hyprland-qtutils
@@ -25,7 +26,6 @@ libcava # Description: Cross-platform Audio Visualizer as a shared library
 cava # Description: Cross-platform Audio Visualizer
 breakpad
 buf # Description: The best way of working with Protocol Buffers.
-
 swww # Description: A Solution to your Wayland Wallpaper Woes
 
  
