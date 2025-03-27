@@ -1,5 +1,16 @@
 Package OpenMandriva LX 
 
+Not Reported as of 3/26:
+dart
+dart-sass
+ironbar
+
+ABF Builds with issues:
+quickshell # Qt 6.9.0 update sucks
+
+Issues:
+ly # Zig build fails
+
 Reported to Wilson:
 hyprlandpolkitagent
 hyprsysteminfo
@@ -14,18 +25,7 @@ libcava # Description: Cross-platform Audio Visualizer as a shared library
 cava # Description: Cross-platform Audio Visualizer
 breakpad
 buf # Description: The best way of working with Protocol Buffers.
-quickshell # Description: Flexbile QtQuick based desktop shell toolkit. Note: activate linux example does not work due to qml componet errors
+
 swww # Description: A Solution to your Wayland Wallpaper Woes
-
-Not Reported as of 3/24
-dart
-dart-sass
-
-ABF Builds with issues:
-
-
-Issues:
-ly # Zig build fails
-
 
  
