@@ -8,8 +8,8 @@ gallery_dl
 
 ABF Builds with issues:
 input-remapper
-faugus-launcher
-python-pynput
+faugus-launcher aarch64
+python-pynput   aarch64 can not find python-nh3
 
 Issues:
 ly # Zig build fails
