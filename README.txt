@@ -9,10 +9,16 @@ gallery_dl
 ABF Builds with issues:
 input-remapper
 faugus-launcher
-pynput
+python-pynput
 
 Issues:
 ly # Zig build fails
+
+Not Worth Reporting
+python-id
+python-nh3
+python-readme_renderer
+
 
 Reported to Wilson:
 quickshell # fixed
