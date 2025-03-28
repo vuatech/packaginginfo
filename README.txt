@@ -4,9 +4,12 @@ Not Reported as of 3/26:
 dart
 dart-sass
 ironbar
+gallery_dl
 
 ABF Builds with issues:
-
+input-remapper
+faugus-launcher
+pynput
 
 Issues:
 ly # Zig build fails
