@@ -3,14 +3,13 @@ Package OpenMandriva LX
 Not Reported as of 3/26:
 dart
 dart-sass
-ironbar
-gallery_dl
+ironbar           Close issue 3/31
+gallery_dl        Close issue 3/31
+faugus-launcher   Close 3/31
+input-remapper    Close issue 3/31
 
 ABF Builds with issues:
-input-remapper
-faugus-launcher aarch64
-python-pynput   aarch64 can not find python-nh3
-
+ 
 Issues:
 ly # Zig build fails
 
@@ -18,6 +17,7 @@ Not Worth Reporting
 python-id
 python-nh3
 python-readme_renderer
+python-pynput
 
 
 Reported to Wilson:
