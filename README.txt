@@ -4,13 +4,14 @@ Not Reported as of 3/28:
 dart
 dart-sass
 gallery_dl
-faugus-launcher   Close 4/2
-input-remapper    Close issue 4/2
+
 
 ABF Builds with issues:
  
 Issues:
 ly # Zig build fails
+faugus-launcher   Close 4/2
+input-remapper    Close issue 4/2
 
 Not Worth Reporting
 python-id
