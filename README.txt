@@ -4,8 +4,8 @@ Not Reported as of 3/28:
 dart
 dart-sass
 gallery_dl
-faugus-launcher   Close 3/31
-input-remapper    Close issue 3/31
+faugus-launcher   Close 4/2
+input-remapper    Close issue 4/2
 
 ABF Builds with issues:
  
