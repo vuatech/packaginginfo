@@ -1,10 +1,9 @@
 Package OpenMandriva LX 
 
-Not Reported as of 3/26:
+Not Reported as of 3/28:
 dart
 dart-sass
-ironbar           Close issue 3/31
-gallery_dl        Close issue 3/31
+gallery_dl
 faugus-launcher   Close 3/31
 input-remapper    Close issue 3/31
 
@@ -36,5 +35,6 @@ cava # Description: Cross-platform Audio Visualizer
 breakpad
 buf # Description: The best way of working with Protocol Buffers.
 swww # Description: A Solution to your Wayland Wallpaper Woes
+ironbar
 
  
