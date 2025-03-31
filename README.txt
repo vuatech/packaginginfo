@@ -1,12 +1,11 @@
 Package OpenMandriva LX 
 
-Not Reported as of 3/28:
-dart
+ New Not Reported as of 3/31:
 dart-sass
-gallery_dl
-faugus-launcher   Close 4/2
-input-remapper    Close issue 4/2
+    
 
+Updated old packages
+faugus-launcher   Close 4/2
 
 ABF Builds with issues:
  
@@ -37,5 +36,9 @@ breakpad
 buf # Description: The best way of working with Protocol Buffers.
 swww # Description: A Solution to your Wayland Wallpaper Woes
 ironbar
+gallery_dl
+QDiskInfo
+input-remapper Close issue 4/2
+dart
 
  
