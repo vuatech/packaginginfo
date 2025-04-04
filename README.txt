@@ -2,10 +2,9 @@ Package OpenMandriva LX
 
  New Not Reported as of 3/31:
 dart-sass
-    
+i3lock   
 
 Updated old packages
-faugus-launcher   Close 4/2
 
 ABF Builds with issues:
  
