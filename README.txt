@@ -3,7 +3,7 @@ Package OpenMandriva LX
  New Not Reported as of 3/31:
 dart-sass
 i3lock   
-
+KDE-Round-Corners
 Updated old packages
 
 ABF Builds with issues:
