@@ -2,13 +2,18 @@ Package OpenMandriva LX
 
  New Not Reported as of 4/4:
 dart-sass
-i3lock   
-KDE-Round-Corners
+i3lock  
+i3lock-color
+python-gpustat
+python-nvidia-ml-py
+python-blessed
+
 
 Updated old packages
 
 ABF Builds with issues:
- 
+ KDE-Round-Corners
+
 Issues:
 ly # Zig build fails
 
