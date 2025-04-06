@@ -4,9 +4,8 @@ Package OpenMandriva LX
 dart-sass
 i3lock  
 i3lock-color
-python-gpustat
-python-nvidia-ml-py
-python-blessed
+astal
+Alyur-GTK-Shell 2.0
 
 
 Updated old packages
@@ -22,6 +21,9 @@ python-id
 python-nh3
 python-readme_renderer
 python-pynput
+python-gpustat
+python-nvidia-ml-py
+python-blessed
 
 
 Reported to Wilson:
