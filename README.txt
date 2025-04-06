@@ -8,6 +8,8 @@ astal
 Alyur-GTK-Shell 2.0
 python-autotiling
 wf-recorder
+hyprland-contrib
+matugen
 
 
 Updated old packages
