@@ -7,6 +7,7 @@ i3lock-color
 astal
 Alyur-GTK-Shell 2.0
 python-autotiling
+wf-recorder
 
 
 Updated old packages
