@@ -1,6 +1,8 @@
 Package OpenMandriva LX 
  
-  New Not Reported as of 4/6:
+ New Not Reported:
+
+
  dart-sass
  i3lock  
  i3lock-color
