@@ -10,6 +10,7 @@ python-autotiling
 wf-recorder
 hyprland-contrib
 matugen
+ly
 
 
 Updated old packages
@@ -18,7 +19,6 @@ ABF Builds with issues:
  KDE-Round-Corners
 
 Issues:
-ly # Zig build fails
 
 Not Worth Reporting
 python-id
