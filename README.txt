@@ -23,18 +23,29 @@ hyprland-qtutils
 uwsm
 hyprsunset
 brightnessctl
-wlr-protocols # Description: Wayland protocols designed for use in wlroots (and other compositors)
-python-pywal16 # Description: 16 colors fork of pywal
+wlr-protocols 
+python-pywal16 
 fonts-ttf-nerd-jetbrains-mono # Description: 
-libcava # Description: Cross-platform Audio Visualizer as a shared library
-cava # Description: Cross-platform Audio Visualizer
+libcava 
+cava 
 breakpad
-buf # Description: The best way of working with Protocol Buffers.
-swww # Description: A Solution to your Wayland Wallpaper Woes
+buf 
+swww 
 ironbar
 gallery_dl
 QDiskInfo
-input-remapper Close issue 4/2
+input-remapper
 dart
+ dart-sass
+ i3lock  
+ i3lock-color
+ astal
+ Alyur-GTK-Shell 2.0
+ python-autotiling
+ wf-recorder
+ hyprland-contrib
+ matugen
+ ly
+
 
  
