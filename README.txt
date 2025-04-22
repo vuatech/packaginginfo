@@ -7,3 +7,4 @@ spotify-launcher
 sequoai-sqv
 bzflag
 rclone
+envycontrol
