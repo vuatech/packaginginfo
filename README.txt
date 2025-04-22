@@ -8,3 +8,4 @@ sequoai-sqv
 bzflag
 rclone
 envycontrol
+crow-translate
