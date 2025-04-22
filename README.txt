@@ -5,3 +5,5 @@ leftwm
 herbstluftwm
 spotify-launcher
 sequoai-sqv
+bzflag
+rclone
