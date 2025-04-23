@@ -12,3 +12,6 @@ rclone
 envycontrol
 crow-translate
 human-theme-gtk
+awk-gtk2
+awk-gtk3
+awk-gtk4
