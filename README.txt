@@ -5,9 +5,9 @@ leftwm
 herbstluftwm
 spotify-launcher
 sequoai-sqv
+bzflag
 
 Open Issues on Github:
-bzflag close 4/27
 rclone close 5/4
 envycontrol close 4/27
 crow-translate close 4/27
