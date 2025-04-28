@@ -15,5 +15,6 @@ envycontrol
 crow-translate
 gearlever close 5/4
 oxipng close 5/4
+typst close 5/4
 
 Open Issues on Github:
