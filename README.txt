@@ -10,9 +10,8 @@ human-theme-gtk
 awk-gtk2 
 awk-gtk3
 awk-gtk4
-
+rclone
+envycontrol
+crow-translate
 
 Open Issues on Github:
-rclone close 5/4
-envycontrol close 4/27
-crow-translate close 4/27
