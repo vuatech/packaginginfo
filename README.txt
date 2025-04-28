@@ -13,5 +13,6 @@ awk-gtk4
 rclone
 envycontrol
 crow-translate
+gearlever
 
 Open Issues on Github:
