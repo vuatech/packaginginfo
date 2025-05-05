@@ -4,4 +4,4 @@ Package OpenMandriva LX
 electron-builder
 
 Pending:
-vermilion
+vermilion aarch64 not building due to missing esbuild
