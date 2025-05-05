@@ -46,6 +46,12 @@ dart
  hyprland-contrib
  matugen
  ly
+leftwm 
+herbstluftwm
+spotify-launcher
+sequoai-sqv
+Sayonara
+bzflag
 
 
  
