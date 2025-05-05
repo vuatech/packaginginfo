@@ -15,10 +15,14 @@ envycontrol
 crow-translate
 Sayonara
 gearlever
-oxipng close 
-typst close 
-Iosevka close 
-IosevkaTerm close 
-IosevkaTermSlab close
+oxipng  
+typst  
+Iosevka 
+IosevkaTerm  
+IosevkaTermSlab 
+pnpm
+electron-builder
+vermilion
+
 
 Open Issues on Github:
