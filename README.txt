@@ -21,8 +21,7 @@ Iosevka
 IosevkaTerm  
 IosevkaTermSlab 
 pnpm
+
+Pending:
 electron-builder
 vermilion
-
-
-Open Issues on Github:
