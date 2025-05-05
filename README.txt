@@ -52,6 +52,19 @@ spotify-launcher
 sequoai-sqv
 Sayonara
 bzflag
-
+human-theme-gtk
+awk-gtk2 
+awk-gtk3
+awk-gtk4
+rclone
+envycontrol
+crow-translate
+gearlever
+oxipng  
+typst  
+Iosevka 
+IosevkaTerm  
+IosevkaTermSlab 
+pnpm
 
  
