@@ -14,11 +14,11 @@ rclone
 envycontrol
 crow-translate
 Sayonara
-gearlever close 5/4
-oxipng close 5/4
-typst close 5/4
-Iosevka close 5/4
-IosevkaTerm close 5/4
-IosevkaTermSlab close 5/4
+gearlever
+oxipng close 
+typst close 
+Iosevka close 
+IosevkaTerm close 
+IosevkaTermSlab close
 
 Open Issues on Github:
